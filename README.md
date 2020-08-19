@@ -1,16 +1,14 @@
-### Hi there 👋
+<p align="center">
+  <br>
+  <br>
+  <br>
+  <samp>Hello there. I'm Abdessalem.<br> Busy building some microservices.<br><br>#Javascript, #NestJs, #NodeJs, #Microservice_Architecture</samp>
+  <br>
+  <br>
+  <br>
+  <br>
+  <img src="https://media3.giphy.com/media/1NYkJ0wTvncdXV5dN5/giphy.gif" width="350" />
+</p>
 
-<!--
-**AbdessalemLetaief/abdessalemletaief** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+------------
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
